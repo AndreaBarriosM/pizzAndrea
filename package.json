@@ -1,0 +1,17 @@
+{
+  "name": "pizzandrea",
+  "version": "1.0.0",
+  "description": "Pizzeria de andrea, Taller Desarrollo web",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "3.0.24"
+  },
+  "dependencies": {
+    "flowbite": "^1.4.7"
+  }
+}
